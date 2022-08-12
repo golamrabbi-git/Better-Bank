@@ -47,7 +47,7 @@ document.getElementById('deposit-button').addEventListener('click',function(){
 
     })
 
-    //upadting balance after withdraw;
+    
 
 
 
